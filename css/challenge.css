@@ -20,4 +20,18 @@
 
   
 }
+#navbar{
+    position:fixed
+    top:0;
+}
+#header-image{
+    position:absolute;
+    top:20px;
+    left:-20px;
+}
+#back-to-top{
+    position: fixed;
+    bottom: 80px;
+    right: 80px;
+}
 
